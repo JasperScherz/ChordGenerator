@@ -1,0 +1,756 @@
+This is the pattern: 1122222
+Requested Scale: C  C#(Db)  D  E  F#(Gb)  G#(Ab)  A#(Bb)  C  
+MNA: 1 2 3 5 7 9 11 1 
+This is the pattern: 1122222
+Requested Scale: C#(Db)  D  D#(Eb)  F  G  A  B  C#(Db)  
+MNA: 2 3 4 6 8 10 12 2 
+This is the pattern: 1122222
+Requested Scale: D  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  C  D  
+MNA: 3 4 5 7 9 11 1 3 
+This is the pattern: 1122222
+Requested Scale: D#(Eb)  E  F  G  A  B  C#(Db)  D#(Eb)  
+MNA: 4 5 6 8 10 12 2 4 
+This is the pattern: 1122222
+Requested Scale: E  F  F#(Gb)  G#(Ab)  A#(Bb)  C  D  E  
+MNA: 5 6 7 9 11 1 3 5 
+This is the pattern: 1122222
+Requested Scale: F  F#(Gb)  G  A  B  C#(Db)  D#(Eb)  F  
+MNA: 6 7 8 10 12 2 4 6 
+This is the pattern: 1122222
+Requested Scale: F#(Gb)  G  G#(Ab)  A#(Bb)  C  D  E  F#(Gb)  
+MNA: 7 8 9 11 1 3 5 7 
+This is the pattern: 1122222
+Requested Scale: G  G#(Ab)  A  B  C#(Db)  D#(Eb)  F  G  
+MNA: 8 9 10 12 2 4 6 8 
+This is the pattern: 1122222
+Requested Scale: G#(Ab)  A  A#(Bb)  C  D  E  F#(Gb)  G#(Ab)  
+MNA: 9 10 11 1 3 5 7 9 
+This is the pattern: 1122222
+Requested Scale: A  A#(Bb)  B  C#(Db)  D#(Eb)  F  G  A  
+MNA: 10 11 12 2 4 6 8 10 
+This is the pattern: 1122222
+Requested Scale: A#(Bb)  B  C  D  E  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 12 1 3 5 7 9 11 
+This is the pattern: 1122222
+Requested Scale: B  C  C#(Db)  D#(Eb)  F  G  A  B  
+MNA: 12 1 2 4 6 8 10 12 
+This is the pattern: 1212222
+Requested Scale: C  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  C  
+MNA: 1 2 4 5 7 9 11 1 
+This is the pattern: 1212222
+Requested Scale: C#(Db)  D  E  F  G  A  B  C#(Db)  
+MNA: 2 3 5 6 8 10 12 2 
+This is the pattern: 1212222
+Requested Scale: D  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  C  D  
+MNA: 3 4 6 7 9 11 1 3 
+This is the pattern: 1212222
+Requested Scale: D#(Eb)  E  F#(Gb)  G  A  B  C#(Db)  D#(Eb)  
+MNA: 4 5 7 8 10 12 2 4 
+This is the pattern: 1212222
+Requested Scale: E  F  G  G#(Ab)  A#(Bb)  C  D  E  
+MNA: 5 6 8 9 11 1 3 5 
+This is the pattern: 1212222
+Requested Scale: F  F#(Gb)  G#(Ab)  A  B  C#(Db)  D#(Eb)  F  
+MNA: 6 7 9 10 12 2 4 6 
+This is the pattern: 1212222
+Requested Scale: F#(Gb)  G  A  A#(Bb)  C  D  E  F#(Gb)  
+MNA: 7 8 10 11 1 3 5 7 
+This is the pattern: 1212222
+Requested Scale: G  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  F  G  
+MNA: 8 9 11 12 2 4 6 8 
+This is the pattern: 1212222
+Requested Scale: G#(Ab)  A  B  C  D  E  F#(Gb)  G#(Ab)  
+MNA: 9 10 12 1 3 5 7 9 
+This is the pattern: 1212222
+Requested Scale: A  A#(Bb)  C  C#(Db)  D#(Eb)  F  G  A  
+MNA: 10 11 1 2 4 6 8 10 
+This is the pattern: 1212222
+Requested Scale: A#(Bb)  B  C#(Db)  D  E  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 12 2 3 5 7 9 11 
+This is the pattern: 1212222
+Requested Scale: B  C  D  D#(Eb)  F  G  A  B  
+MNA: 12 1 3 4 6 8 10 12 
+This is the pattern: 1221222
+Requested Scale: C  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  C  
+MNA: 1 2 4 6 7 9 11 1 
+This is the pattern: 1221222
+Requested Scale: C#(Db)  D  E  F#(Gb)  G  A  B  C#(Db)  
+MNA: 2 3 5 7 8 10 12 2 
+This is the pattern: 1221222
+Requested Scale: D  D#(Eb)  F  G  G#(Ab)  A#(Bb)  C  D  
+MNA: 3 4 6 8 9 11 1 3 
+This is the pattern: 1221222
+Requested Scale: D#(Eb)  E  F#(Gb)  G#(Ab)  A  B  C#(Db)  D#(Eb)  
+MNA: 4 5 7 9 10 12 2 4 
+This is the pattern: 1221222
+Requested Scale: E  F  G  A  A#(Bb)  C  D  E  
+MNA: 5 6 8 10 11 1 3 5 
+This is the pattern: 1221222
+Requested Scale: F  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  F  
+MNA: 6 7 9 11 12 2 4 6 
+This is the pattern: 1221222
+Requested Scale: F#(Gb)  G  A  B  C  D  E  F#(Gb)  
+MNA: 7 8 10 12 1 3 5 7 
+This is the pattern: 1221222
+Requested Scale: G  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  F  G  
+MNA: 8 9 11 1 2 4 6 8 
+This is the pattern: 1221222
+Requested Scale: G#(Ab)  A  B  C#(Db)  D  E  F#(Gb)  G#(Ab)  
+MNA: 9 10 12 2 3 5 7 9 
+This is the pattern: 1221222
+Requested Scale: A  A#(Bb)  C  D  D#(Eb)  F  G  A  
+MNA: 10 11 1 3 4 6 8 10 
+This is the pattern: 1221222
+Requested Scale: A#(Bb)  B  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 12 2 4 5 7 9 11 
+This is the pattern: 1221222
+Requested Scale: B  C  D  E  F  G  A  B  
+MNA: 12 1 3 5 6 8 10 12 
+This is the pattern: 1222122
+Requested Scale: C  C#(Db)  D#(Eb)  F  G  G#(Ab)  A#(Bb)  C  
+MNA: 1 2 4 6 8 9 11 1 
+This is the pattern: 1222122
+Requested Scale: C#(Db)  D  E  F#(Gb)  G#(Ab)  A  B  C#(Db)  
+MNA: 2 3 5 7 9 10 12 2 
+This is the pattern: 1222122
+Requested Scale: D  D#(Eb)  F  G  A  A#(Bb)  C  D  
+MNA: 3 4 6 8 10 11 1 3 
+This is the pattern: 1222122
+Requested Scale: D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  
+MNA: 4 5 7 9 11 12 2 4 
+This is the pattern: 1222122
+Requested Scale: E  F  G  A  B  C  D  E  
+MNA: 5 6 8 10 12 1 3 5 
+This is the pattern: 1222122
+Requested Scale: F  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  F  
+MNA: 6 7 9 11 1 2 4 6 
+This is the pattern: 1222122
+Requested Scale: F#(Gb)  G  A  B  C#(Db)  D  E  F#(Gb)  
+MNA: 7 8 10 12 2 3 5 7 
+This is the pattern: 1222122
+Requested Scale: G  G#(Ab)  A#(Bb)  C  D  D#(Eb)  F  G  
+MNA: 8 9 11 1 3 4 6 8 
+This is the pattern: 1222122
+Requested Scale: G#(Ab)  A  B  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  
+MNA: 9 10 12 2 4 5 7 9 
+This is the pattern: 1222122
+Requested Scale: A  A#(Bb)  C  D  E  F  G  A  
+MNA: 10 11 1 3 5 6 8 10 
+This is the pattern: 1222122
+Requested Scale: A#(Bb)  B  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 12 2 4 6 7 9 11 
+This is the pattern: 1222122
+Requested Scale: B  C  D  E  F#(Gb)  G  A  B  
+MNA: 12 1 3 5 7 8 10 12 
+This is the pattern: 1222212
+Requested Scale: C  C#(Db)  D#(Eb)  F  G  A  A#(Bb)  C  
+MNA: 1 2 4 6 8 10 11 1 
+This is the pattern: 1222212
+Requested Scale: C#(Db)  D  E  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  
+MNA: 2 3 5 7 9 11 12 2 
+This is the pattern: 1222212
+Requested Scale: D  D#(Eb)  F  G  A  B  C  D  
+MNA: 3 4 6 8 10 12 1 3 
+This is the pattern: 1222212
+Requested Scale: D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  
+MNA: 4 5 7 9 11 1 2 4 
+This is the pattern: 1222212
+Requested Scale: E  F  G  A  B  C#(Db)  D  E  
+MNA: 5 6 8 10 12 2 3 5 
+This is the pattern: 1222212
+Requested Scale: F  F#(Gb)  G#(Ab)  A#(Bb)  C  D  D#(Eb)  F  
+MNA: 6 7 9 11 1 3 4 6 
+This is the pattern: 1222212
+Requested Scale: F#(Gb)  G  A  B  C#(Db)  D#(Eb)  E  F#(Gb)  
+MNA: 7 8 10 12 2 4 5 7 
+This is the pattern: 1222212
+Requested Scale: G  G#(Ab)  A#(Bb)  C  D  E  F  G  
+MNA: 8 9 11 1 3 5 6 8 
+This is the pattern: 1222212
+Requested Scale: G#(Ab)  A  B  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  
+MNA: 9 10 12 2 4 6 7 9 
+This is the pattern: 1222212
+Requested Scale: A  A#(Bb)  C  D  E  F#(Gb)  G  A  
+MNA: 10 11 1 3 5 7 8 10 
+This is the pattern: 1222212
+Requested Scale: A#(Bb)  B  C#(Db)  D#(Eb)  F  G  G#(Ab)  A#(Bb)  
+MNA: 11 12 2 4 6 8 9 11 
+This is the pattern: 1222212
+Requested Scale: B  C  D  E  F#(Gb)  G#(Ab)  A  B  
+MNA: 12 1 3 5 7 9 10 12 
+This is the pattern: 1222221
+Requested Scale: C  C#(Db)  D#(Eb)  F  G  A  B  C  
+MNA: 1 2 4 6 8 10 12 1 
+This is the pattern: 1222221
+Requested Scale: C#(Db)  D  E  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  
+MNA: 2 3 5 7 9 11 1 2 
+This is the pattern: 1222221
+Requested Scale: D  D#(Eb)  F  G  A  B  C#(Db)  D  
+MNA: 3 4 6 8 10 12 2 3 
+This is the pattern: 1222221
+Requested Scale: D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  C  D  D#(Eb)  
+MNA: 4 5 7 9 11 1 3 4 
+This is the pattern: 1222221
+Requested Scale: E  F  G  A  B  C#(Db)  D#(Eb)  E  
+MNA: 5 6 8 10 12 2 4 5 
+This is the pattern: 1222221
+Requested Scale: F  F#(Gb)  G#(Ab)  A#(Bb)  C  D  E  F  
+MNA: 6 7 9 11 1 3 5 6 
+This is the pattern: 1222221
+Requested Scale: F#(Gb)  G  A  B  C#(Db)  D#(Eb)  F  F#(Gb)  
+MNA: 7 8 10 12 2 4 6 7 
+This is the pattern: 1222221
+Requested Scale: G  G#(Ab)  A#(Bb)  C  D  E  F#(Gb)  G  
+MNA: 8 9 11 1 3 5 7 8 
+This is the pattern: 1222221
+Requested Scale: G#(Ab)  A  B  C#(Db)  D#(Eb)  F  G  G#(Ab)  
+MNA: 9 10 12 2 4 6 8 9 
+This is the pattern: 1222221
+Requested Scale: A  A#(Bb)  C  D  E  F#(Gb)  G#(Ab)  A  
+MNA: 10 11 1 3 5 7 9 10 
+This is the pattern: 1222221
+Requested Scale: A#(Bb)  B  C#(Db)  D#(Eb)  F  G  A  A#(Bb)  
+MNA: 11 12 2 4 6 8 10 11 
+This is the pattern: 1222221
+Requested Scale: B  C  D  E  F#(Gb)  G#(Ab)  A#(Bb)  B  
+MNA: 12 1 3 5 7 9 11 12 
+This is the pattern: 2112222
+Requested Scale: C  D  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  C  
+MNA: 1 3 4 5 7 9 11 1 
+This is the pattern: 2112222
+Requested Scale: C#(Db)  D#(Eb)  E  F  G  A  B  C#(Db)  
+MNA: 2 4 5 6 8 10 12 2 
+This is the pattern: 2112222
+Requested Scale: D  E  F  F#(Gb)  G#(Ab)  A#(Bb)  C  D  
+MNA: 3 5 6 7 9 11 1 3 
+This is the pattern: 2112222
+Requested Scale: D#(Eb)  F  F#(Gb)  G  A  B  C#(Db)  D#(Eb)  
+MNA: 4 6 7 8 10 12 2 4 
+This is the pattern: 2112222
+Requested Scale: E  F#(Gb)  G  G#(Ab)  A#(Bb)  C  D  E  
+MNA: 5 7 8 9 11 1 3 5 
+This is the pattern: 2112222
+Requested Scale: F  G  G#(Ab)  A  B  C#(Db)  D#(Eb)  F  
+MNA: 6 8 9 10 12 2 4 6 
+This is the pattern: 2112222
+Requested Scale: F#(Gb)  G#(Ab)  A  A#(Bb)  C  D  E  F#(Gb)  
+MNA: 7 9 10 11 1 3 5 7 
+This is the pattern: 2112222
+Requested Scale: G  A  A#(Bb)  B  C#(Db)  D#(Eb)  F  G  
+MNA: 8 10 11 12 2 4 6 8 
+This is the pattern: 2112222
+Requested Scale: G#(Ab)  A#(Bb)  B  C  D  E  F#(Gb)  G#(Ab)  
+MNA: 9 11 12 1 3 5 7 9 
+This is the pattern: 2112222
+Requested Scale: A  B  C  C#(Db)  D#(Eb)  F  G  A  
+MNA: 10 12 1 2 4 6 8 10 
+This is the pattern: 2112222
+Requested Scale: A#(Bb)  C  C#(Db)  D  E  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 1 2 3 5 7 9 11 
+This is the pattern: 2112222
+Requested Scale: B  C#(Db)  D  D#(Eb)  F  G  A  B  
+MNA: 12 2 3 4 6 8 10 12 
+This is the pattern: 2121222
+Requested Scale: C  D  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  C  
+MNA: 1 3 4 6 7 9 11 1 
+This is the pattern: 2121222
+Requested Scale: C#(Db)  D#(Eb)  E  F#(Gb)  G  A  B  C#(Db)  
+MNA: 2 4 5 7 8 10 12 2 
+This is the pattern: 2121222
+Requested Scale: D  E  F  G  G#(Ab)  A#(Bb)  C  D  
+MNA: 3 5 6 8 9 11 1 3 
+This is the pattern: 2121222
+Requested Scale: D#(Eb)  F  F#(Gb)  G#(Ab)  A  B  C#(Db)  D#(Eb)  
+MNA: 4 6 7 9 10 12 2 4 
+This is the pattern: 2121222
+Requested Scale: E  F#(Gb)  G  A  A#(Bb)  C  D  E  
+MNA: 5 7 8 10 11 1 3 5 
+This is the pattern: 2121222
+Requested Scale: F  G  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  F  
+MNA: 6 8 9 11 12 2 4 6 
+This is the pattern: 2121222
+Requested Scale: F#(Gb)  G#(Ab)  A  B  C  D  E  F#(Gb)  
+MNA: 7 9 10 12 1 3 5 7 
+This is the pattern: 2121222
+Requested Scale: G  A  A#(Bb)  C  C#(Db)  D#(Eb)  F  G  
+MNA: 8 10 11 1 2 4 6 8 
+This is the pattern: 2121222
+Requested Scale: G#(Ab)  A#(Bb)  B  C#(Db)  D  E  F#(Gb)  G#(Ab)  
+MNA: 9 11 12 2 3 5 7 9 
+This is the pattern: 2121222
+Requested Scale: A  B  C  D  D#(Eb)  F  G  A  
+MNA: 10 12 1 3 4 6 8 10 
+This is the pattern: 2121222
+Requested Scale: A#(Bb)  C  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 1 2 4 5 7 9 11 
+This is the pattern: 2121222
+Requested Scale: B  C#(Db)  D  E  F  G  A  B  
+MNA: 12 2 3 5 6 8 10 12 
+This is the pattern: 2122122
+Requested Scale: C  D  D#(Eb)  F  G  G#(Ab)  A#(Bb)  C  
+MNA: 1 3 4 6 8 9 11 1 
+This is the pattern: 2122122
+Requested Scale: C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A  B  C#(Db)  
+MNA: 2 4 5 7 9 10 12 2 
+This is the pattern: 2122122
+Requested Scale: D  E  F  G  A  A#(Bb)  C  D  
+MNA: 3 5 6 8 10 11 1 3 
+This is the pattern: 2122122
+Requested Scale: D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  
+MNA: 4 6 7 9 11 12 2 4 
+This is the pattern: 2122122
+Requested Scale: E  F#(Gb)  G  A  B  C  D  E  
+MNA: 5 7 8 10 12 1 3 5 
+This is the pattern: 2122122
+Requested Scale: F  G  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  F  
+MNA: 6 8 9 11 1 2 4 6 
+This is the pattern: 2122122
+Requested Scale: F#(Gb)  G#(Ab)  A  B  C#(Db)  D  E  F#(Gb)  
+MNA: 7 9 10 12 2 3 5 7 
+This is the pattern: 2122122
+Requested Scale: G  A  A#(Bb)  C  D  D#(Eb)  F  G  
+MNA: 8 10 11 1 3 4 6 8 
+This is the pattern: 2122122
+Requested Scale: G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  
+MNA: 9 11 12 2 4 5 7 9 
+This is the pattern: 2122122
+Requested Scale: A  B  C  D  E  F  G  A  
+MNA: 10 12 1 3 5 6 8 10 
+This is the pattern: 2122122
+Requested Scale: A#(Bb)  C  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 1 2 4 6 7 9 11 
+This is the pattern: 2122122
+Requested Scale: B  C#(Db)  D  E  F#(Gb)  G  A  B  
+MNA: 12 2 3 5 7 8 10 12 
+This is the pattern: 2122212
+Requested Scale: C  D  D#(Eb)  F  G  A  A#(Bb)  C  
+MNA: 1 3 4 6 8 10 11 1 
+This is the pattern: 2122212
+Requested Scale: C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  
+MNA: 2 4 5 7 9 11 12 2 
+This is the pattern: 2122212
+Requested Scale: D  E  F  G  A  B  C  D  
+MNA: 3 5 6 8 10 12 1 3 
+This is the pattern: 2122212
+Requested Scale: D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  
+MNA: 4 6 7 9 11 1 2 4 
+This is the pattern: 2122212
+Requested Scale: E  F#(Gb)  G  A  B  C#(Db)  D  E  
+MNA: 5 7 8 10 12 2 3 5 
+This is the pattern: 2122212
+Requested Scale: F  G  G#(Ab)  A#(Bb)  C  D  D#(Eb)  F  
+MNA: 6 8 9 11 1 3 4 6 
+This is the pattern: 2122212
+Requested Scale: F#(Gb)  G#(Ab)  A  B  C#(Db)  D#(Eb)  E  F#(Gb)  
+MNA: 7 9 10 12 2 4 5 7 
+This is the pattern: 2122212
+Requested Scale: G  A  A#(Bb)  C  D  E  F  G  
+MNA: 8 10 11 1 3 5 6 8 
+This is the pattern: 2122212
+Requested Scale: G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  
+MNA: 9 11 12 2 4 6 7 9 
+This is the pattern: 2122212
+Requested Scale: A  B  C  D  E  F#(Gb)  G  A  
+MNA: 10 12 1 3 5 7 8 10 
+This is the pattern: 2122212
+Requested Scale: A#(Bb)  C  C#(Db)  D#(Eb)  F  G  G#(Ab)  A#(Bb)  
+MNA: 11 1 2 4 6 8 9 11 
+This is the pattern: 2122212
+Requested Scale: B  C#(Db)  D  E  F#(Gb)  G#(Ab)  A  B  
+MNA: 12 2 3 5 7 9 10 12 
+This is the pattern: 2122221
+Requested Scale: C  D  D#(Eb)  F  G  A  B  C  
+MNA: 1 3 4 6 8 10 12 1 
+This is the pattern: 2122221
+Requested Scale: C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  
+MNA: 2 4 5 7 9 11 1 2 
+This is the pattern: 2122221
+Requested Scale: D  E  F  G  A  B  C#(Db)  D  
+MNA: 3 5 6 8 10 12 2 3 
+This is the pattern: 2122221
+Requested Scale: D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  C  D  D#(Eb)  
+MNA: 4 6 7 9 11 1 3 4 
+This is the pattern: 2122221
+Requested Scale: E  F#(Gb)  G  A  B  C#(Db)  D#(Eb)  E  
+MNA: 5 7 8 10 12 2 4 5 
+This is the pattern: 2122221
+Requested Scale: F  G  G#(Ab)  A#(Bb)  C  D  E  F  
+MNA: 6 8 9 11 1 3 5 6 
+This is the pattern: 2122221
+Requested Scale: F#(Gb)  G#(Ab)  A  B  C#(Db)  D#(Eb)  F  F#(Gb)  
+MNA: 7 9 10 12 2 4 6 7 
+This is the pattern: 2122221
+Requested Scale: G  A  A#(Bb)  C  D  E  F#(Gb)  G  
+MNA: 8 10 11 1 3 5 7 8 
+This is the pattern: 2122221
+Requested Scale: G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  F  G  G#(Ab)  
+MNA: 9 11 12 2 4 6 8 9 
+This is the pattern: 2122221
+Requested Scale: A  B  C  D  E  F#(Gb)  G#(Ab)  A  
+MNA: 10 12 1 3 5 7 9 10 
+This is the pattern: 2122221
+Requested Scale: A#(Bb)  C  C#(Db)  D#(Eb)  F  G  A  A#(Bb)  
+MNA: 11 1 2 4 6 8 10 11 
+This is the pattern: 2122221
+Requested Scale: B  C#(Db)  D  E  F#(Gb)  G#(Ab)  A#(Bb)  B  
+MNA: 12 2 3 5 7 9 11 12 
+This is the pattern: 2211222
+Requested Scale: C  D  E  F  F#(Gb)  G#(Ab)  A#(Bb)  C  
+MNA: 1 3 5 6 7 9 11 1 
+This is the pattern: 2211222
+Requested Scale: C#(Db)  D#(Eb)  F  F#(Gb)  G  A  B  C#(Db)  
+MNA: 2 4 6 7 8 10 12 2 
+This is the pattern: 2211222
+Requested Scale: D  E  F#(Gb)  G  G#(Ab)  A#(Bb)  C  D  
+MNA: 3 5 7 8 9 11 1 3 
+This is the pattern: 2211222
+Requested Scale: D#(Eb)  F  G  G#(Ab)  A  B  C#(Db)  D#(Eb)  
+MNA: 4 6 8 9 10 12 2 4 
+This is the pattern: 2211222
+Requested Scale: E  F#(Gb)  G#(Ab)  A  A#(Bb)  C  D  E  
+MNA: 5 7 9 10 11 1 3 5 
+This is the pattern: 2211222
+Requested Scale: F  G  A  A#(Bb)  B  C#(Db)  D#(Eb)  F  
+MNA: 6 8 10 11 12 2 4 6 
+This is the pattern: 2211222
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  B  C  D  E  F#(Gb)  
+MNA: 7 9 11 12 1 3 5 7 
+This is the pattern: 2211222
+Requested Scale: G  A  B  C  C#(Db)  D#(Eb)  F  G  
+MNA: 8 10 12 1 2 4 6 8 
+This is the pattern: 2211222
+Requested Scale: G#(Ab)  A#(Bb)  C  C#(Db)  D  E  F#(Gb)  G#(Ab)  
+MNA: 9 11 1 2 3 5 7 9 
+This is the pattern: 2211222
+Requested Scale: A  B  C#(Db)  D  D#(Eb)  F  G  A  
+MNA: 10 12 2 3 4 6 8 10 
+This is the pattern: 2211222
+Requested Scale: A#(Bb)  C  D  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 1 3 4 5 7 9 11 
+This is the pattern: 2211222
+Requested Scale: B  C#(Db)  D#(Eb)  E  F  G  A  B  
+MNA: 12 2 4 5 6 8 10 12 
+This is the pattern: 2212122
+Requested Scale: C  D  E  F  G  G#(Ab)  A#(Bb)  C  
+MNA: 1 3 5 6 8 9 11 1 
+This is the pattern: 2212122
+Requested Scale: C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A  B  C#(Db)  
+MNA: 2 4 6 7 9 10 12 2 
+This is the pattern: 2212122
+Requested Scale: D  E  F#(Gb)  G  A  A#(Bb)  C  D  
+MNA: 3 5 7 8 10 11 1 3 
+This is the pattern: 2212122
+Requested Scale: D#(Eb)  F  G  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  
+MNA: 4 6 8 9 11 12 2 4 
+This is the pattern: 2212122
+Requested Scale: E  F#(Gb)  G#(Ab)  A  B  C  D  E  
+MNA: 5 7 9 10 12 1 3 5 
+This is the pattern: 2212122
+Requested Scale: F  G  A  A#(Bb)  C  C#(Db)  D#(Eb)  F  
+MNA: 6 8 10 11 1 2 4 6 
+This is the pattern: 2212122
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D  E  F#(Gb)  
+MNA: 7 9 11 12 2 3 5 7 
+This is the pattern: 2212122
+Requested Scale: G  A  B  C  D  D#(Eb)  F  G  
+MNA: 8 10 12 1 3 4 6 8 
+This is the pattern: 2212122
+Requested Scale: G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  
+MNA: 9 11 1 2 4 5 7 9 
+This is the pattern: 2212122
+Requested Scale: A  B  C#(Db)  D  E  F  G  A  
+MNA: 10 12 2 3 5 6 8 10 
+This is the pattern: 2212122
+Requested Scale: A#(Bb)  C  D  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 1 3 4 6 7 9 11 
+This is the pattern: 2212122
+Requested Scale: B  C#(Db)  D#(Eb)  E  F#(Gb)  G  A  B  
+MNA: 12 2 4 5 7 8 10 12 
+This is the pattern: 2212212
+Requested Scale: C  D  E  F  G  A  A#(Bb)  C  
+MNA: 1 3 5 6 8 10 11 1 
+This is the pattern: 2212212
+Requested Scale: C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  
+MNA: 2 4 6 7 9 11 12 2 
+This is the pattern: 2212212
+Requested Scale: D  E  F#(Gb)  G  A  B  C  D  
+MNA: 3 5 7 8 10 12 1 3 
+This is the pattern: 2212212
+Requested Scale: D#(Eb)  F  G  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  
+MNA: 4 6 8 9 11 1 2 4 
+This is the pattern: 2212212
+Requested Scale: E  F#(Gb)  G#(Ab)  A  B  C#(Db)  D  E  
+MNA: 5 7 9 10 12 2 3 5 
+This is the pattern: 2212212
+Requested Scale: F  G  A  A#(Bb)  C  D  D#(Eb)  F  
+MNA: 6 8 10 11 1 3 4 6 
+This is the pattern: 2212212
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  E  F#(Gb)  
+MNA: 7 9 11 12 2 4 5 7 
+This is the pattern: 2212212
+Requested Scale: G  A  B  C  D  E  F  G  
+MNA: 8 10 12 1 3 5 6 8 
+This is the pattern: 2212212
+Requested Scale: G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  
+MNA: 9 11 1 2 4 6 7 9 
+This is the pattern: 2212212
+Requested Scale: A  B  C#(Db)  D  E  F#(Gb)  G  A  
+MNA: 10 12 2 3 5 7 8 10 
+This is the pattern: 2212212
+Requested Scale: A#(Bb)  C  D  D#(Eb)  F  G  G#(Ab)  A#(Bb)  
+MNA: 11 1 3 4 6 8 9 11 
+This is the pattern: 2212212
+Requested Scale: B  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A  B  
+MNA: 12 2 4 5 7 9 10 12 
+This is the pattern: 2212221
+Requested Scale: C  D  E  F  G  A  B  C  
+MNA: 1 3 5 6 8 10 12 1 
+This is the pattern: 2212221
+Requested Scale: C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  
+MNA: 2 4 6 7 9 11 1 2 
+This is the pattern: 2212221
+Requested Scale: D  E  F#(Gb)  G  A  B  C#(Db)  D  
+MNA: 3 5 7 8 10 12 2 3 
+This is the pattern: 2212221
+Requested Scale: D#(Eb)  F  G  G#(Ab)  A#(Bb)  C  D  D#(Eb)  
+MNA: 4 6 8 9 11 1 3 4 
+This is the pattern: 2212221
+Requested Scale: E  F#(Gb)  G#(Ab)  A  B  C#(Db)  D#(Eb)  E  
+MNA: 5 7 9 10 12 2 4 5 
+This is the pattern: 2212221
+Requested Scale: F  G  A  A#(Bb)  C  D  E  F  
+MNA: 6 8 10 11 1 3 5 6 
+This is the pattern: 2212221
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  F  F#(Gb)  
+MNA: 7 9 11 12 2 4 6 7 
+This is the pattern: 2212221
+Requested Scale: G  A  B  C  D  E  F#(Gb)  G  
+MNA: 8 10 12 1 3 5 7 8 
+This is the pattern: 2212221
+Requested Scale: G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  F  G  G#(Ab)  
+MNA: 9 11 1 2 4 6 8 9 
+This is the pattern: 2212221
+Requested Scale: A  B  C#(Db)  D  E  F#(Gb)  G#(Ab)  A  
+MNA: 10 12 2 3 5 7 9 10 
+This is the pattern: 2212221
+Requested Scale: A#(Bb)  C  D  D#(Eb)  F  G  A  A#(Bb)  
+MNA: 11 1 3 4 6 8 10 11 
+This is the pattern: 2212221
+Requested Scale: B  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A#(Bb)  B  
+MNA: 12 2 4 5 7 9 11 12 
+This is the pattern: 2221122
+Requested Scale: C  D  E  F#(Gb)  G  G#(Ab)  A#(Bb)  C  
+MNA: 1 3 5 7 8 9 11 1 
+This is the pattern: 2221122
+Requested Scale: C#(Db)  D#(Eb)  F  G  G#(Ab)  A  B  C#(Db)  
+MNA: 2 4 6 8 9 10 12 2 
+This is the pattern: 2221122
+Requested Scale: D  E  F#(Gb)  G#(Ab)  A  A#(Bb)  C  D  
+MNA: 3 5 7 9 10 11 1 3 
+This is the pattern: 2221122
+Requested Scale: D#(Eb)  F  G  A  A#(Bb)  B  C#(Db)  D#(Eb)  
+MNA: 4 6 8 10 11 12 2 4 
+This is the pattern: 2221122
+Requested Scale: E  F#(Gb)  G#(Ab)  A#(Bb)  B  C  D  E  
+MNA: 5 7 9 11 12 1 3 5 
+This is the pattern: 2221122
+Requested Scale: F  G  A  B  C  C#(Db)  D#(Eb)  F  
+MNA: 6 8 10 12 1 2 4 6 
+This is the pattern: 2221122
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D  E  F#(Gb)  
+MNA: 7 9 11 1 2 3 5 7 
+This is the pattern: 2221122
+Requested Scale: G  A  B  C#(Db)  D  D#(Eb)  F  G  
+MNA: 8 10 12 2 3 4 6 8 
+This is the pattern: 2221122
+Requested Scale: G#(Ab)  A#(Bb)  C  D  D#(Eb)  E  F#(Gb)  G#(Ab)  
+MNA: 9 11 1 3 4 5 7 9 
+This is the pattern: 2221122
+Requested Scale: A  B  C#(Db)  D#(Eb)  E  F  G  A  
+MNA: 10 12 2 4 5 6 8 10 
+This is the pattern: 2221122
+Requested Scale: A#(Bb)  C  D  E  F  F#(Gb)  G#(Ab)  A#(Bb)  
+MNA: 11 1 3 5 6 7 9 11 
+This is the pattern: 2221122
+Requested Scale: B  C#(Db)  D#(Eb)  F  F#(Gb)  G  A  B  
+MNA: 12 2 4 6 7 8 10 12 
+This is the pattern: 2221212
+Requested Scale: C  D  E  F#(Gb)  G  A  A#(Bb)  C  
+MNA: 1 3 5 7 8 10 11 1 
+This is the pattern: 2221212
+Requested Scale: C#(Db)  D#(Eb)  F  G  G#(Ab)  A#(Bb)  B  C#(Db)  
+MNA: 2 4 6 8 9 11 12 2 
+This is the pattern: 2221212
+Requested Scale: D  E  F#(Gb)  G#(Ab)  A  B  C  D  
+MNA: 3 5 7 9 10 12 1 3 
+This is the pattern: 2221212
+Requested Scale: D#(Eb)  F  G  A  A#(Bb)  C  C#(Db)  D#(Eb)  
+MNA: 4 6 8 10 11 1 2 4 
+This is the pattern: 2221212
+Requested Scale: E  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D  E  
+MNA: 5 7 9 11 12 2 3 5 
+This is the pattern: 2221212
+Requested Scale: F  G  A  B  C  D  D#(Eb)  F  
+MNA: 6 8 10 12 1 3 4 6 
+This is the pattern: 2221212
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  E  F#(Gb)  
+MNA: 7 9 11 1 2 4 5 7 
+This is the pattern: 2221212
+Requested Scale: G  A  B  C#(Db)  D  E  F  G  
+MNA: 8 10 12 2 3 5 6 8 
+This is the pattern: 2221212
+Requested Scale: G#(Ab)  A#(Bb)  C  D  D#(Eb)  F  F#(Gb)  G#(Ab)  
+MNA: 9 11 1 3 4 6 7 9 
+This is the pattern: 2221212
+Requested Scale: A  B  C#(Db)  D#(Eb)  E  F#(Gb)  G  A  
+MNA: 10 12 2 4 5 7 8 10 
+This is the pattern: 2221212
+Requested Scale: A#(Bb)  C  D  E  F  G  G#(Ab)  A#(Bb)  
+MNA: 11 1 3 5 6 8 9 11 
+This is the pattern: 2221212
+Requested Scale: B  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A  B  
+MNA: 12 2 4 6 7 9 10 12 
+This is the pattern: 2221221
+Requested Scale: C  D  E  F#(Gb)  G  A  B  C  
+MNA: 1 3 5 7 8 10 12 1 
+This is the pattern: 2221221
+Requested Scale: C#(Db)  D#(Eb)  F  G  G#(Ab)  A#(Bb)  C  C#(Db)  
+MNA: 2 4 6 8 9 11 1 2 
+This is the pattern: 2221221
+Requested Scale: D  E  F#(Gb)  G#(Ab)  A  B  C#(Db)  D  
+MNA: 3 5 7 9 10 12 2 3 
+This is the pattern: 2221221
+Requested Scale: D#(Eb)  F  G  A  A#(Bb)  C  D  D#(Eb)  
+MNA: 4 6 8 10 11 1 3 4 
+This is the pattern: 2221221
+Requested Scale: E  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D#(Eb)  E  
+MNA: 5 7 9 11 12 2 4 5 
+This is the pattern: 2221221
+Requested Scale: F  G  A  B  C  D  E  F  
+MNA: 6 8 10 12 1 3 5 6 
+This is the pattern: 2221221
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  F  F#(Gb)  
+MNA: 7 9 11 1 2 4 6 7 
+This is the pattern: 2221221
+Requested Scale: G  A  B  C#(Db)  D  E  F#(Gb)  G  
+MNA: 8 10 12 2 3 5 7 8 
+This is the pattern: 2221221
+Requested Scale: G#(Ab)  A#(Bb)  C  D  D#(Eb)  F  G  G#(Ab)  
+MNA: 9 11 1 3 4 6 8 9 
+This is the pattern: 2221221
+Requested Scale: A  B  C#(Db)  D#(Eb)  E  F#(Gb)  G#(Ab)  A  
+MNA: 10 12 2 4 5 7 9 10 
+This is the pattern: 2221221
+Requested Scale: A#(Bb)  C  D  E  F  G  A  A#(Bb)  
+MNA: 11 1 3 5 6 8 10 11 
+This is the pattern: 2221221
+Requested Scale: B  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A#(Bb)  B  
+MNA: 12 2 4 6 7 9 11 12 
+This is the pattern: 2222112
+Requested Scale: C  D  E  F#(Gb)  G#(Ab)  A  A#(Bb)  C  
+MNA: 1 3 5 7 9 10 11 1 
+This is the pattern: 2222112
+Requested Scale: C#(Db)  D#(Eb)  F  G  A  A#(Bb)  B  C#(Db)  
+MNA: 2 4 6 8 10 11 12 2 
+This is the pattern: 2222112
+Requested Scale: D  E  F#(Gb)  G#(Ab)  A#(Bb)  B  C  D  
+MNA: 3 5 7 9 11 12 1 3 
+This is the pattern: 2222112
+Requested Scale: D#(Eb)  F  G  A  B  C  C#(Db)  D#(Eb)  
+MNA: 4 6 8 10 12 1 2 4 
+This is the pattern: 2222112
+Requested Scale: E  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D  E  
+MNA: 5 7 9 11 1 2 3 5 
+This is the pattern: 2222112
+Requested Scale: F  G  A  B  C#(Db)  D  D#(Eb)  F  
+MNA: 6 8 10 12 2 3 4 6 
+This is the pattern: 2222112
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  C  D  D#(Eb)  E  F#(Gb)  
+MNA: 7 9 11 1 3 4 5 7 
+This is the pattern: 2222112
+Requested Scale: G  A  B  C#(Db)  D#(Eb)  E  F  G  
+MNA: 8 10 12 2 4 5 6 8 
+This is the pattern: 2222112
+Requested Scale: G#(Ab)  A#(Bb)  C  D  E  F  F#(Gb)  G#(Ab)  
+MNA: 9 11 1 3 5 6 7 9 
+This is the pattern: 2222112
+Requested Scale: A  B  C#(Db)  D#(Eb)  F  F#(Gb)  G  A  
+MNA: 10 12 2 4 6 7 8 10 
+This is the pattern: 2222112
+Requested Scale: A#(Bb)  C  D  E  F#(Gb)  G  G#(Ab)  A#(Bb)  
+MNA: 11 1 3 5 7 8 9 11 
+This is the pattern: 2222112
+Requested Scale: B  C#(Db)  D#(Eb)  F  G  G#(Ab)  A  B  
+MNA: 12 2 4 6 8 9 10 12 
+This is the pattern: 2222121
+Requested Scale: C  D  E  F#(Gb)  G#(Ab)  A  B  C  
+MNA: 1 3 5 7 9 10 12 1 
+This is the pattern: 2222121
+Requested Scale: C#(Db)  D#(Eb)  F  G  A  A#(Bb)  C  C#(Db)  
+MNA: 2 4 6 8 10 11 1 2 
+This is the pattern: 2222121
+Requested Scale: D  E  F#(Gb)  G#(Ab)  A#(Bb)  B  C#(Db)  D  
+MNA: 3 5 7 9 11 12 2 3 
+This is the pattern: 2222121
+Requested Scale: D#(Eb)  F  G  A  B  C  D  D#(Eb)  
+MNA: 4 6 8 10 12 1 3 4 
+This is the pattern: 2222121
+Requested Scale: E  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D#(Eb)  E  
+MNA: 5 7 9 11 1 2 4 5 
+This is the pattern: 2222121
+Requested Scale: F  G  A  B  C#(Db)  D  E  F  
+MNA: 6 8 10 12 2 3 5 6 
+This is the pattern: 2222121
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  C  D  D#(Eb)  F  F#(Gb)  
+MNA: 7 9 11 1 3 4 6 7 
+This is the pattern: 2222121
+Requested Scale: G  A  B  C#(Db)  D#(Eb)  E  F#(Gb)  G  
+MNA: 8 10 12 2 4 5 7 8 
+This is the pattern: 2222121
+Requested Scale: G#(Ab)  A#(Bb)  C  D  E  F  G  G#(Ab)  
+MNA: 9 11 1 3 5 6 8 9 
+This is the pattern: 2222121
+Requested Scale: A  B  C#(Db)  D#(Eb)  F  F#(Gb)  G#(Ab)  A  
+MNA: 10 12 2 4 6 7 9 10 
+This is the pattern: 2222121
+Requested Scale: A#(Bb)  C  D  E  F#(Gb)  G  A  A#(Bb)  
+MNA: 11 1 3 5 7 8 10 11 
+This is the pattern: 2222121
+Requested Scale: B  C#(Db)  D#(Eb)  F  G  G#(Ab)  A#(Bb)  B  
+MNA: 12 2 4 6 8 9 11 12 
+This is the pattern: 2222211
+Requested Scale: C  D  E  F#(Gb)  G#(Ab)  A#(Bb)  B  C  
+MNA: 1 3 5 7 9 11 12 1 
+This is the pattern: 2222211
+Requested Scale: C#(Db)  D#(Eb)  F  G  A  B  C  C#(Db)  
+MNA: 2 4 6 8 10 12 1 2 
+This is the pattern: 2222211
+Requested Scale: D  E  F#(Gb)  G#(Ab)  A#(Bb)  C  C#(Db)  D  
+MNA: 3 5 7 9 11 1 2 3 
+This is the pattern: 2222211
+Requested Scale: D#(Eb)  F  G  A  B  C#(Db)  D  D#(Eb)  
+MNA: 4 6 8 10 12 2 3 4 
+This is the pattern: 2222211
+Requested Scale: E  F#(Gb)  G#(Ab)  A#(Bb)  C  D  D#(Eb)  E  
+MNA: 5 7 9 11 1 3 4 5 
+This is the pattern: 2222211
+Requested Scale: F  G  A  B  C#(Db)  D#(Eb)  E  F  
+MNA: 6 8 10 12 2 4 5 6 
+This is the pattern: 2222211
+Requested Scale: F#(Gb)  G#(Ab)  A#(Bb)  C  D  E  F  F#(Gb)  
+MNA: 7 9 11 1 3 5 6 7 
+This is the pattern: 2222211
+Requested Scale: G  A  B  C#(Db)  D#(Eb)  F  F#(Gb)  G  
+MNA: 8 10 12 2 4 6 7 8 
+This is the pattern: 2222211
+Requested Scale: G#(Ab)  A#(Bb)  C  D  E  F#(Gb)  G  G#(Ab)  
+MNA: 9 11 1 3 5 7 8 9 
+This is the pattern: 2222211
+Requested Scale: A  B  C#(Db)  D#(Eb)  F  G  G#(Ab)  A  
+MNA: 10 12 2 4 6 8 9 10 
+This is the pattern: 2222211
+Requested Scale: A#(Bb)  C  D  E  F#(Gb)  G#(Ab)  A  A#(Bb)  
+MNA: 11 1 3 5 7 9 10 11 
+This is the pattern: 2222211
+Requested Scale: B  C#(Db)  D#(Eb)  F  G  A  A#(Bb)  B  
+MNA: 12 2 4 6 8 10 11 12 
