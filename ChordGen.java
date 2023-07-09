@@ -3,11 +3,33 @@ public class ChordGen{
     private static final int C = 1, Cs = 2, D = 3, Ds = 4, E = 5, F = 6, Fs = 7, G = 8, Gs = 9, A = 10, As = 11, B = 12;
 
     public static void main(String[] args){
-        generateMajorScale(C);
+        //generateMajorScale(C);
         generateMinorScale(C);
 
-        int[][] twodArrayTest = {{0, 1}, {2, 3}};
-        //System.out.println(twodArrayTest[0][0]);
+        int[] pattern = {2, 1, 2, 2, 1, 2};
+        generateScale(C, pattern);
+       
+    }
+
+    private static void generateScale(int rootNote, int[] pattern){
+        String scale = "";
+        String musicalNumberAssignment = "";
+        int counter = 0;
+        for(int i = 1; i < (pattern.length + 1) * 2 - 1; i += pattern[counter]){
+            int note = rootNote - 1 + i;
+            if(note > 12){
+                note -= 12;
+            }
+            scale += noteIntToString(note) + " ";
+            musicalNumberAssignment += note + " ";
+            counter++;
+            if(counter >= 6 || i == 1){
+                counter--;
+            }
+        }
+        System.out.println("Requested Scale: " + scale);
+        System.out.println("MNA: " + musicalNumberAssignment);
+        System.out.println("1 2 3 4 5 6 7");
     }
 
     private static void generateMajorScale(int rootNote){
