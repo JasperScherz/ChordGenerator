@@ -6,7 +6,7 @@ public class ChordGen{
         //generateMajorScale(C);
         generateMinorScale(C);
 
-        int[] pattern = {2, 1, 2, 2, 1, 2};
+        int[] pattern = {2, 1, 2, 2, 1, 2, 2};
         generateScale(C, pattern);
        
     }
@@ -15,7 +15,7 @@ public class ChordGen{
         String scale = "";
         String musicalNumberAssignment = "";
         int counter = 0;
-        for(int i = 1; i < (pattern.length + 1) * 2 - 1; i += pattern[counter]){
+        for(int i = 1; i < 14; i += pattern[counter]){
             int note = rootNote - 1 + i;
             if(note > 12){
                 note -= 12;
@@ -23,7 +23,7 @@ public class ChordGen{
             scale += noteIntToString(note) + " ";
             musicalNumberAssignment += note + " ";
             counter++;
-            if(counter >= 6 || i == 1){
+            if(counter >= pattern.length || i == 1){
                 counter--;
             }
         }
@@ -35,14 +35,14 @@ public class ChordGen{
     private static void generateMajorScale(int rootNote){
         String majorScale = "";
         String musicalNumberAssignment = "";
-        for(int i = 1; i < 13; i += 2){
+        for(int i = 1; i < 14; i += 2){
             int note = rootNote - 1 + i;
             if(note > 12){
                 note -= 12;
             }
             majorScale += noteIntToString(note) + " ";
             musicalNumberAssignment += note + " ";
-            if(i == 5){
+            if(i == 5 || i == 12){
                 i--;
             }
         }
@@ -54,7 +54,7 @@ public class ChordGen{
     private static void generateMinorScale(int rootNote){
         String minorScale = "";
         String musicalNumberAssignment = "";
-        for(int i = 1; i < 13; i += 2){
+        for(int i = 1; i < 14; i += 2){
             int note = rootNote - 1 + i;
             if(note > 12){
                 note -= 12;
