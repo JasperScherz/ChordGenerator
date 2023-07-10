@@ -1,8 +1,6 @@
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
-import java.util.HashSet;
-import java.util.Iterator;
 
 public class ChordGen{
 
@@ -17,6 +15,7 @@ public class ChordGen{
        
         int[] notes = {C, Cs, D, Ds, E, F, Fs, G, Gs, A, As, B};
         int[] pattern = {2, 2, 1, 2, 2, 2, 1};
+        /*
         int[][] pattern2D = {{1,1,2,2,2,2,2},
                              {1,2,1,2,2,2,2},
                              {1,2,2,1,2,2,2},
@@ -43,6 +42,7 @@ public class ChordGen{
                              {1,1,2,2,1,2,3},
                              {1,1,2,2,2,1,3},
                              {1,}};
+                             */
         String patternStr = "";
         ArrayList<int[]> patterns = generatePatterns();
         
@@ -54,6 +54,7 @@ public class ChordGen{
                     patternStr += i;
                 }
                 for (int i : notes) {
+                    System.out.println(generateScale(i, pattern)[2]);
                     System.out.println(generateScale(i, pattern)[0]);
                     System.out.println(generateScale(i, pattern)[1]);
                     System.out.println("1 2 3 4 5 6 7");
@@ -76,7 +77,7 @@ public class ChordGen{
         
                     // Print the success message (Optional)
                     System.out.print(
-                        "File is created successfully with the content.");
+                        "File is created successfully with the content.\n");
                 }
                 patternStr = "";
             }
@@ -120,6 +121,7 @@ public class ChordGen{
     private static String[] generateScale(int rootNote, int[] pattern){
         String scale = "";
         String musicalNumberAssignment = "";
+        String patternStr = "";
         int counter = 0;
         for(int i = 1; i < 14; i += pattern[counter]){
             int note = rootNote - 1 + i;
@@ -133,10 +135,11 @@ public class ChordGen{
                 counter--;
             }
         }
-        String[] output = {"Requested Scale: " + scale, "MNA: " + musicalNumberAssignment};
+        for (int i : pattern) {
+            patternStr += i;
+        }
+        String[] output = {"Requested Scale: " + scale, "MNA: " + musicalNumberAssignment, "Pattern: " + patternStr};
         return output;
-        //System.out.println("MNA: " + musicalNumberAssignment);
-        //System.out.println("1 2 3 4 5 6 7");
     }
 
     private static void generateMajorScale(int rootNote){
@@ -212,6 +215,7 @@ public class ChordGen{
         int[] basePattern = {1,1,2,2,2,2,2};
         int index1 = 0;
         int index2 = 1;
+        int switcher = 1;
     
         while(index2 < basePattern.length){
             int[] patternCPY = new int[7];
@@ -219,18 +223,40 @@ public class ChordGen{
                 patternCPY[i] = basePattern[i];
             }
             chordPatterns.add(patternCPY);
+            
             basePattern[index2] = 2;
             index2++;
-            if(index2 == basePattern.length){
+            if(index2 >= basePattern.length){
                 if(index1 >= basePattern.length - 2){
                     break;
+                    
                 }
+                
                 basePattern[index1] = 2;
                 index1++;
                 basePattern[index1] = 1;
                 index2 = index1 + 1;
             }
             basePattern[index2] = 1;
+        /* 
+            switch (switcher){
+                case 1: 
+                    basePattern[index2] = 2;
+                    index2++;  
+                    if(index2 >= basePattern.length){
+                        switcher = 2;
+                        //index2--;
+                        break;
+                    }
+                    basePattern[index2] = 1;
+                case 2:
+                    basePattern[index1] = 2;
+                    index1++;
+                    basePattern[index1] = 1;
+                    index2 = index1 + 1;
+                    switcher = 1;
+            }
+             */
         }
         
         return chordPatterns;
