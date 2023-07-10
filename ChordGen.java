@@ -1,6 +1,8 @@
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.ArrayList;
+import java.util.HashSet;
+import java.util.Iterator;
 
 public class ChordGen{
 
@@ -12,7 +14,7 @@ public class ChordGen{
 
         //int[] pattern = {3, 3, 1, 1, 1, 2, 1};
         //generateScale(C, pattern);
-       /* 
+       
         int[] notes = {C, Cs, D, Ds, E, F, Fs, G, Gs, A, As, B};
         int[] pattern = {2, 2, 1, 2, 2, 2, 1};
         int[][] pattern2D = {{1,1,2,2,2,2,2},
@@ -42,11 +44,12 @@ public class ChordGen{
                              {1,1,2,2,2,1,3},
                              {1,}};
         String patternStr = "";
+        ArrayList<int[]> patterns = generatePatterns();
         
         FileOutputStream outputStream = null;
         try {
-            outputStream = new FileOutputStream("Chords.txt");
-            for (int[] is : pattern2D) {
+            outputStream = new FileOutputStream("Chords2.txt");
+            for (int[] is : patterns) {
                 for (int i : is) {
                     patternStr += i;
                 }
@@ -112,9 +115,6 @@ public class ChordGen{
             }
             
         }
-*/
-        System.out.println(factorial(5));
-    
     }
 
     private static String[] generateScale(int rootNote, int[] pattern){
@@ -206,6 +206,36 @@ public class ChordGen{
         }
         return "Error in converting to String";
     }
+
+    private static ArrayList<int[]> generatePatterns(){
+        ArrayList<int[]> chordPatterns = new ArrayList<>();
+        int[] basePattern = {1,1,2,2,2,2,2};
+        int index1 = 0;
+        int index2 = 1;
+    
+        while(index2 < basePattern.length){
+            int[] patternCPY = new int[7];
+            for (int i = 0; i < patternCPY.length; i++) {
+                patternCPY[i] = basePattern[i];
+            }
+            chordPatterns.add(patternCPY);
+            basePattern[index2] = 2;
+            index2++;
+            if(index2 == basePattern.length){
+                if(index1 >= basePattern.length - 2){
+                    break;
+                }
+                basePattern[index1] = 2;
+                index1++;
+                basePattern[index1] = 1;
+                index2 = index1 + 1;
+            }
+            basePattern[index2] = 1;
+        }
+        
+        return chordPatterns;
+    }
+
     
     private static int factorial(int number){
         if(number == 1 || number == 0){
