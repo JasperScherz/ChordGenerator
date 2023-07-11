@@ -12,9 +12,13 @@ public class ChordGen{
         //generateMajorScale(C);
         //generateMinorScale(C);
 
-        //int[] pattern = {3, 3, 1, 1, 1, 2, 1};
-        //generateScale(C, pattern);
-       
+        int[] chordPattern = {3, 2};
+        int[] scalePattern = {2,1,2,2,2,1,2};
+        System.out.println(generateScale(C, scalePattern)[0] + "\n" + generateScale(C, scalePattern)[1]);
+        System.out.println(generateChord(C, chordPattern, scalePattern)[0] + "\n" + generateChord(C, chordPattern, scalePattern)[1]);
+        generateMajorChord(C);
+        generateMinorChord(C);
+       /* 
         int[] notes = {C, Cs, D, Ds, E, F, Fs, G, Gs, A, As, B};
         int[] pattern = {2, 2, 1, 2, 2, 2, 1};
         int[][] pattern2D = {{1,1,2,2,2,2,2},
@@ -113,30 +117,86 @@ public class ChordGen{
                     System.out.print(e.getMessage());
                 }
             }
-            
-        }
+             
+        */
     }
 
     private static String[] generateScale(int rootNote, int[] pattern){
         String scale = "";
         String musicalNumberAssignment = "";
-        int counter = 0;
-        for(int i = 1; i < 14; i += pattern[counter]){
-            int note = rootNote - 1 + i;
-            if(note > 12){
-                note -= 12;
+        int note = rootNote;
+        for(int i = 0; i < pattern.length + 1; i++){
+            if(i != 0){
+                note += pattern[i-1];
+                if(note > 12){
+                    note -= 12;
+                }
             }
             scale += noteIntToString(note) + " ";
             musicalNumberAssignment += note + " ";
-            counter++;
-            if(counter >= pattern.length || i == 1){
-                counter--;
-            }
         }
         String[] output = {"Requested Scale: " + scale, "MNA: " + musicalNumberAssignment};
         return output;
-        //System.out.println("MNA: " + musicalNumberAssignment);
-        //System.out.println("1 2 3 4 5 6 7");
+    }
+
+    private static String[] generateChord(int rootNote, int[] chordPattern, int[] scalePattern){
+        String chord = "";
+        String musicalNumberAssignment = "";
+        int note = rootNote;
+        int counter = 0;
+        for (int i = 0; i < chordPattern.length + 1; i++) {
+            if(i != 0){
+                for (int j = 0; j < chordPattern[i - 1]; j++) {
+                    if(counter != 0){
+                        note += scalePattern[counter - 1];
+                        if(note > 12) note -= 12;  
+                    }
+                    counter++;
+                }
+            }
+            chord += noteIntToString(note) + " ";
+            musicalNumberAssignment += note + " ";
+        }
+        String[] output = {"Requested Chord: " + chord, "MNA: " + musicalNumberAssignment};
+        return output;
+    }
+
+    private static void generateMajorChord(int rootNote){
+        String scale = "";
+        String musicalNumberAssignment = "";
+        int[] pattern = {0,4,3};
+        int note = rootNote;
+        
+        for(int i = 0; i < pattern.length; i++){
+            note += pattern[i];
+            if(note > 12){
+                note -= 12;
+            }
+            scale += noteIntToString(note);
+            musicalNumberAssignment += note + " ";
+        }
+        
+        System.out.println(noteIntToString(rootNote) + "Major Chord: " + scale);
+        System.out.println("MNA : " + musicalNumberAssignment);
+    }
+
+    private static void generateMinorChord(int rootNote){
+        String scale = "";
+        String musicalNumberAssignment = "";
+        int[] pattern = {0,3,4};
+        int note = rootNote;
+        
+        for(int i = 0; i < pattern.length; i++){
+            note += pattern[i];
+            if(note > 12){
+                note -= 12;
+            }
+            scale += noteIntToString(note);
+            musicalNumberAssignment += note + " ";
+        }
+        
+        System.out.println(noteIntToString(rootNote) + "Minor Chord: " + scale);
+        System.out.println("MNA : " + musicalNumberAssignment);
     }
 
     private static void generateMajorScale(int rootNote){
