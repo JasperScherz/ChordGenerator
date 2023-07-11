@@ -12,9 +12,10 @@ public class ChordGen{
         //generateMajorScale(C);
         //generateMinorScale(C);
 
-        int[] chordPattern = {3, 2};
-        int[] scalePattern = {2,1,2,2,2,1,2};
+        int[] chordPattern = {3, 3};
+        int[] scalePattern = {2,2,1,2,2,2,1};
         System.out.println(generateScale(C, scalePattern)[0] + "\n" + generateScale(C, scalePattern)[1]);
+        generateMinorScale(C);
         System.out.println(generateChord(C, chordPattern, scalePattern)[0] + "\n" + generateChord(C, chordPattern, scalePattern)[1]);
         generateMajorChord(C);
         generateMinorChord(C);
